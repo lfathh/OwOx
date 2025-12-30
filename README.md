@@ -548,7 +548,7 @@ Your stars serve as fuel for our spirits, igniting our passion and dedication to
 
 Your stars inspire us to keep pushing boundaries, overcome challenges, and bring about meaningful change.
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Kyou-Izumi/advanced-discord-owo-tool-farm&type=Date)](https://www.star-history.com/#Kyou-Izumi/advanced-discord-owo-tool-farm&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=lfathh/OwO&type=Date)](https://www.star-history.com/#lfathh/OwO&Date)
 
 ## Contributing
 
