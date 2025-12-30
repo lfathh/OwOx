@@ -1,5 +1,8 @@
 # DISCORD OWO TOOL FARM
 
+### Running Reatures
+![Imgur](https://i.imgur.com/kSDgdDS.png)
+
 ```
 >>> Captcha from owobot.com/captcha is now supported
 ```
