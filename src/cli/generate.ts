@@ -16,11 +16,11 @@ export const builder = {
 };
 export const handler = async (argv: { filename: string }) => {
     const configTemplate: Partial<Configuration> = {
-        token: ".GqH3sT.hv_JQflSdEkam5KjOWGyAXHijMs7bd1cCARkAw",
-        guildID: "1454509983453417485",
+        token: "imput-token",
+        guildID: "GUILD-ID",
         channelID: ["1454544962275377172", "<your-channel-id-2>", "<your-channel-id-3>"],
         wayNotify: ["webhook", "dms", "call", "music", "popup"],
-        webhookURL: "https://discord.com/api/webhooks/1455052243626627266/_8Om0BYTSXCVxnCEOUfgwilnxB5ufJL-tRLjVBOWG181ptHnd7XUXLrV-Wgzoxuf34mM",
+        webhookURL: "webhookURL",
         adminID: "1307385241266032640",
         musicPath: "./path/to/music.mp3",
         prefix: "!",
@@ -59,6 +59,7 @@ export const handler = async (argv: { filename: string }) => {
     logger.info(t("cli.generate.configGenerated", { filePath }));
 
 };
+
 
 
 
