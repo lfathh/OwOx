@@ -8,7 +8,7 @@
 
 We support 2 ways to login: via **token** and **QR Code**
 
-![Imgur](https://i.imgur.com/UwU9Z9B.png)
+![Imgur](https://i.imgur.com/IMJihnq.png)
 
 ---
 ### Lootbox & Daily Actions
