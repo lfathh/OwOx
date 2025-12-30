@@ -1,4 +1,4 @@
-# ADVANCED DISCORD OWO TOOL FARM
+# DISCORD OWO TOOL FARM
 
 ```
 >>> Captcha from owobot.com/captcha is now supported
