@@ -20,6 +20,8 @@
 <a href="https://github-com.translate.goog/lfathh/OwO/blob/main/README.md?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp">![Translate](https://img.shields.io/badge/Translate-blue)</a>
 
 </div>
+---
+
 # Running Reatures
 ![Imgur](https://i.imgur.com/kSDgdDS.png)
 
