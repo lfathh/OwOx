@@ -1,7 +1,7 @@
 {
   "name": "OwO",
   "version": "4.0.0-alpha-2.7",
-  "description": "Community Discord OwO Selfbot made in Vietnam [Copyright © Kyou-Izumi 2025]",
+  "description": "Community Discord OwO Selfbot made in Vietnam [Copyright © Fathh 2025]",
   "main": "index.ts",
   "type": "module",
   "engines": {
@@ -27,9 +27,9 @@
     "owo-selfbot"
   ],
   "author": {
-    "name": "Kyou Izumi",
-    "email": "ntt.eternity2k6@gmail.com",
-    "url": "https://www.facebook.com/LongAKolangle"
+    "name": "Lfathh Dev",
+    "email": "ntt.eternty2k6@gmail.com",
+    "url": "https://www.tiktok.com/@fxyyxs"
   },
   "license": "MIT",
   "bugs": {
