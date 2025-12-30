@@ -11,18 +11,6 @@ We support 2 ways to login: via **token** and **QR Code**
 ![Imgur](https://i.imgur.com/IMJihnq.png)
 
 ---
-### Lootbox & Daily Actions
-```js
-{
-    "autoLootbox": true, // Auto use regular lootboxes
-    "autoFabledLootbox": false, // Auto use fabled lootboxes
-    "autoDaily": true, // Auto claim daily rewards
-    "autoCookie": true, // Auto use cookies
-    "autoClover": true, // Auto use clovers
-    "autoSell": true // Auto sell animals when cash runs out
-}
-```
-
 ### System Settings
 ```js
 {
