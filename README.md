@@ -1,6 +1,6 @@
 # DISCORD OWO TOOL FARM
 
-![Running Reatures](https://fath-owo.notion.site/OwO-Checklist-2d987de0e9a0810ebe41c4e4541a5271)
+# Running Reatures
 ![Imgur](https://i.imgur.com/kSDgdDS.png)
 
 ```
