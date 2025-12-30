@@ -14,10 +14,13 @@
     "start": "npx tsx index.ts",
     "start:js": "node dest/index.js",
     "dev": "cross-env NODE_ENV=development npx tsx ."
-  },
+  }, 
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Kyou-Izumi/advanced-discord-owo-tool-farm.git"
+    "url": "git+https://github.com/lfathh/advanced-discord-owo-tool-farm.git"
+  },
+  "scripts": {
+    "build": "[my-framework] build --output public"
   },
   "keywords": [
     "discord-owo-selfbot",
