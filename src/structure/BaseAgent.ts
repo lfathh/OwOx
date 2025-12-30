@@ -255,16 +255,16 @@ export class BaseAgent {
     private loadPresence = () => {
         const rpc = new RichPresence(this.client)
             .setApplicationId(this.miraiID)
-            .setType("PLAYING")
-            .setName("Mirai Kuriyama")
-            .setDetails("The day the emperor returns!")
+            .setType("Playing")
+            .setName("Lfathh Developer")
+            .setDetails("The handsome man is having a headache.!")
             .setStartTimestamp(this.client.readyTimestamp)
             .setAssetsLargeImage("1312264004382621706")
-            .setAssetsLargeText("Advanced Discord OwO Tool Farm")
+            .setAssetsLargeText("Fath Tools")
             .setAssetsSmallImage("1306938859552247848")
-            .setAssetsSmallText("Copyright © Kyou-Izumi 2025")
-            .addButton("GitHub", "https://github.com/Kyou-Izumi/advanced-discord-owo-tool-farm")
-            .addButton("YouTube", "https://www.youtube.com/@daongotau")
+            .setAssetsSmallText("Copyright © lfath 2025")
+            .addButton("GitHub", "https://github.com/lfathh")
+            .addButton("TikTok", "https://www.tiktok.com/@fxyyxs")
 
         this.client.user.setPresence({ activities: [rpc] });
     }
@@ -387,3 +387,4 @@ export class BaseAgent {
         agent.farmLoop();
     }
 }
+
