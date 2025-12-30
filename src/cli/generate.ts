@@ -42,7 +42,7 @@ export const handler = async (argv: { filename: string }) => {
         autoClover: true,
         useCustomPrefix: false,
         autoSell: true,
-        autoSleep: true,
+        autoSleep: false,
         autoReload: true,
         autoResume: true,
         showRPC: true
@@ -59,6 +59,7 @@ export const handler = async (argv: { filename: string }) => {
     logger.info(t("cli.generate.configGenerated", { filePath }));
 
 };
+
 
 
 
