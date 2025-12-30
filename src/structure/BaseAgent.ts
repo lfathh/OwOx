@@ -255,7 +255,7 @@ export class BaseAgent {
     private loadPresence = () => {
         const rpc = new RichPresence(this.client)
             .setApplicationId(this.miraiID)
-            .setType("Playing")
+            .setType("PLAYING")
             .setName("Lfathh Developer")
             .setDetails("The handsome man is having a headache.!")
             .setStartTimestamp(this.client.readyTimestamp)
@@ -387,5 +387,6 @@ export class BaseAgent {
         agent.farmLoop();
     }
 }
+
 
 
