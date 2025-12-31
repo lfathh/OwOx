@@ -73,7 +73,7 @@ We support 2 ways to login: via **token** and **QR Code**
 
 ✔ Attempt to solve captcha by using 3rd party captcha-api website
 
-✔ __Solve captcha from OwO website (further info in [discord server](https://discord.gg/Yr92g5Zx3e))__
+✔ __Solve captcha from OwO website__
 
 ✔ DMs selfbot account to send captcha answer to OwO (user -> selfbot -> OwO)
 
